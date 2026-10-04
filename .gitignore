@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+backend/.venv/
+# 12 MB crawl cache — raw_graph.json is committed, so a re-crawl is never required
+backend/data/link_cache.json
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
