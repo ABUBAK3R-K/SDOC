@@ -1,0 +1,283 @@
+[
+ {
+  "rank": 1,
+  "source": "Duck test",
+  "target": "Ziegler–Natta catalyst",
+  "confidence": 0.9957,
+  "caption": "Duck test and Ziegler–Natta catalyst have zero mutual friends. The GNN found a back alley anyway: Duck test → Duck → Rubber duck → Goodrich Corporation → Ziegler–Natta catalyst.",
+  "shared_neighbors": [],
+  "shared_count": 0,
+  "path": [
+   "Duck test",
+   "Duck",
+   "Rubber duck",
+   "Goodrich Corporation",
+   "Ziegler–Natta catalyst"
+  ]
+ },
+ {
+  "rank": 2,
+  "source": "All in a Day",
+  "target": "A Muppet Family Christmas",
+  "confidence": 0.9906,
+  "caption": "Officially strangers. Unofficially: All in a Day → Eric Carle → American Broadcasting Company → A Muppet Family Christmas. The graph is never wrong (citation needed).",
+  "shared_neighbors": [],
+  "shared_count": 0,
+  "path": [
+   "All in a Day",
+   "Eric Carle",
+   "American Broadcasting Company",
+   "A Muppet Family Christmas"
+  ]
+ },
+ {
+  "rank": 3,
+  "source": "Baby Bear, Baby Bear, What Do You See?",
+  "target": "Bert and Ernie's Great Adventures",
+  "confidence": 0.9891,
+  "caption": "Six degrees? Try 4. Baby Bear, Baby Bear, What Do You See? → 10 Little Rubber Ducks → Rubber duck → Bert and Ernie → Bert and Ernie's Great Adventures. The oracle has spoken.",
+  "shared_neighbors": [],
+  "shared_count": 0,
+  "path": [
+   "Baby Bear, Baby Bear, What Do You See?",
+   "10 Little Rubber Ducks",
+   "Rubber duck",
+   "Bert and Ernie",
+   "Bert and Ernie's Great Adventures"
+  ]
+ },
+ {
+  "rank": 4,
+  "source": "Rubber duck debugging",
+  "target": "Combustion",
+  "confidence": 0.9434,
+  "caption": "No one introduced Rubber duck debugging to Combustion. Gradient descent did, via Rubber duck debugging → Rubber duck → Light-emitting diode → Combustion.",
+  "shared_neighbors": [],
+  "shared_count": 0,
+  "path": [
+   "Rubber duck debugging",
+   "Rubber duck",
+   "Light-emitting diode",
+   "Combustion"
+  ]
+ },
+ {
+  "rank": 5,
+  "source": "Friendly Floatees spill",
+  "target": "Little Yellow Duck Project",
+  "confidence": 0.9284,
+  "caption": "Friendly Floatees spill has never linked to Little Yellow Duck Project. Rubber duck, who knows them both, finds this deeply awkward.",
+  "shared_neighbors": [
+   "Rubber duck"
+  ],
+  "shared_count": 1,
+  "path": []
+ },
+ {
+  "rank": 6,
+  "source": "Belgrade",
+  "target": "Authoritarianism",
+  "confidence": 0.9214,
+  "caption": "Somewhere in latent space, Belgrade and Authoritarianism are already holding hands. Jordan was the wingman.",
+  "shared_neighbors": [
+   "Jordan",
+   "Serbia",
+   "Iraq"
+  ],
+  "shared_count": 11,
+  "path": []
+ },
+ {
+  "rank": 7,
+  "source": "X (social network)",
+  "target": "Chicago",
+  "confidence": 0.8951,
+  "caption": "X and Chicago: separated at birth, reunited by gradient descent. Paternity test: Guinness World Records.",
+  "shared_neighbors": [
+   "Guinness World Records",
+   "Newsweek",
+   "Internet"
+  ],
+  "shared_count": 11,
+  "path": []
+ },
+ {
+  "rank": 8,
+  "source": "Random act of kindness",
+  "target": "PEN/John Kenneth Galbraith Award for Nonfiction",
+  "confidence": 0.8944,
+  "caption": "No one introduced Random act of kindness to PEN/John Kenneth Galbraith Award for Nonfiction. Gradient descent did, via Random act of kindness → Rubber duck → Donovan Hohn → PEN/John Kenneth Galbraith Award for Nonfiction.",
+  "shared_neighbors": [],
+  "shared_count": 0,
+  "path": [
+   "Random act of kindness",
+   "Rubber duck",
+   "Donovan Hohn",
+   "PEN/John Kenneth Galbraith Award for Nonfiction"
+  ]
+ },
+ {
+  "rank": 9,
+  "source": "Boston",
+  "target": "Bill Clinton",
+  "confidence": 0.8854,
+  "caption": "Editors missed it, the GNN didn't: Boston belongs next to Bill Clinton. Exhibit A: Rolling Stone.",
+  "shared_neighbors": [
+   "Rolling Stone",
+   "Akron, Ohio",
+   "Georgia (U.S. state)"
+  ],
+  "shared_count": 10,
+  "path": []
+ },
+ {
+  "rank": 10,
+  "source": "C. W. McCall",
+  "target": "Vinyl polymer",
+  "confidence": 0.883,
+  "caption": "C. W. McCall walks into a bar. Vinyl polymer is already there, deep in conversation with Rubber duck.",
+  "shared_neighbors": [
+   "Rubber duck"
+  ],
+  "shared_count": 1,
+  "path": []
+ },
+ {
+  "rank": 11,
+  "source": "Saarbrücken",
+  "target": "Myanmar",
+  "confidence": 0.8801,
+  "caption": "Saarbrücken and Myanmar have never met. The graph is convinced they'd get along — they're both very into Tbilisi.",
+  "shared_neighbors": [
+   "Tbilisi",
+   "Baku",
+   "Ankara"
+  ],
+  "shared_count": 10,
+  "path": []
+ },
+ {
+  "rank": 12,
+  "source": "Polymer",
+  "target": "Discogs",
+  "confidence": 0.8715,
+  "caption": "No one introduced Polymer to Discogs. Gradient descent did, via Polymer → Plastic → Internet → Discogs.",
+  "shared_neighbors": [],
+  "shared_count": 0,
+  "path": [
+   "Polymer",
+   "Plastic",
+   "Internet",
+   "Discogs"
+  ]
+ },
+ {
+  "rank": 13,
+  "source": "Donald Trump",
+  "target": "Spanish language",
+  "confidence": 0.8694,
+  "caption": "If Donald Trump and Spanish language were at a party, they'd end up in the kitchen talking about Newsweek.",
+  "shared_neighbors": [
+   "Newsweek",
+   "CBS News",
+   "American English"
+  ],
+  "shared_count": 13,
+  "path": []
+ },
+ {
+  "rank": 14,
+  "source": "Indian subcontinent",
+  "target": "Ankara",
+  "confidence": 0.8649,
+  "caption": "The oracle formally proposes a crossover episode: Indian subcontinent × Ankara, brought to you by Middle East.",
+  "shared_neighbors": [
+   "Middle East",
+   "Myanmar",
+   "Bangladesh"
+  ],
+  "shared_count": 11,
+  "path": []
+ },
+ {
+  "rank": 15,
+  "source": "Asia",
+  "target": "Dresden",
+  "confidence": 0.8614,
+  "caption": "Asia has never linked to Dresden. Athens, who knows them both, finds this deeply awkward.",
+  "shared_neighbors": [
+   "Athens",
+   "Eleventh edition of the Encyclopædia Britannica",
+   "Tbilisi"
+  ],
+  "shared_count": 12,
+  "path": []
+ },
+ {
+  "rank": 16,
+  "source": "North America",
+  "target": "CBS News",
+  "confidence": 0.8578,
+  "caption": "Somewhere in latent space, North America and CBS News are already holding hands. France 24 was the wingman.",
+  "shared_neighbors": [
+   "France 24",
+   "Assassination of John F. Kennedy",
+   "Spanish language"
+  ],
+  "shared_count": 13,
+  "path": []
+ },
+ {
+  "rank": 17,
+  "source": "Sunshine duration",
+  "target": "Far East",
+  "confidence": 0.8525,
+  "caption": "Sunshine duration and Far East: separated at birth, reunited by gradient descent. Paternity test: Shenzhen.",
+  "shared_neighbors": [
+   "Shenzhen",
+   "North Africa",
+   "Earth"
+  ],
+  "shared_count": 10,
+  "path": []
+ },
+ {
+  "rank": 18,
+  "source": "Baffin Bay",
+  "target": "General Tire",
+  "confidence": 0.8402,
+  "caption": "Peer review pending: Baffin Bay and General Tire have 1 mutual friend, including Rubber duck. Suspicious.",
+  "shared_neighbors": [
+   "Rubber duck"
+  ],
+  "shared_count": 1,
+  "path": []
+ },
+ {
+  "rank": 19,
+  "source": "Loriot",
+  "target": "World's Largest Rubber Duck",
+  "confidence": 0.8295,
+  "caption": "Editors missed it, the GNN didn't: Loriot belongs next to World's Largest Rubber Duck. Exhibit A: Rubber duck.",
+  "shared_neighbors": [
+   "Rubber duck"
+  ],
+  "shared_count": 1,
+  "path": []
+ },
+ {
+  "rank": 20,
+  "source": "American LaFrance",
+  "target": "Beaufort Sea",
+  "confidence": 0.8181,
+  "caption": "No one introduced American LaFrance to Beaufort Sea. Gradient descent did, via American LaFrance → Economy of the United States → Alaska → Beaufort Sea.",
+  "shared_neighbors": [],
+  "shared_count": 0,
+  "path": [
+   "American LaFrance",
+   "Economy of the United States",
+   "Alaska",
+   "Beaufort Sea"
+  ]
+ }
+]

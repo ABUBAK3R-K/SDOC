@@ -1,0 +1,6 @@
+{
+  "val_auc": 0.8552,
+  "test_auc": 0.8806,
+  "jaccard_test_auc": 0.9251,
+  "epochs": 400
+}

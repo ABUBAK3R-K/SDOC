@@ -1,0 +1,9 @@
+# CPU-only torch keeps the install small:
+#   pip install torch --index-url https://download.pytorch.org/whl/cpu
+torch>=2.4
+torch-geometric>=2.6
+networkx>=3.3
+scikit-learn>=1.5
+requests>=2.32
+fastapi>=0.115
+uvicorn>=0.30
